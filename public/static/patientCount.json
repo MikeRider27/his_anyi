@@ -1,0 +1,296 @@
+{
+	"table1": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Psiquiatría",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-06",
+      "number": "40"
+    }
+	],
+  "table2": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-07",
+      "number": "20"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-07",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-07",
+      "number": "50"
+    },
+     {
+      "department": "Psiquiatría",
+      "date": "2017-08-07",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-07",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-07",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-07",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-07",
+      "number": "50"
+    }
+  ],
+  "table3": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-08",
+      "number": "30"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-08",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-08",
+      "number": "50"
+    },
+     {
+      "department": "Psiquiatría",
+      "date": "2017-08-08",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-08",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-08",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-08",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-08",
+      "number": "50"
+    }
+  ],
+  "table4": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-09",
+      "number": "40"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-09",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-09",
+      "number": "50"
+    },
+     {
+      "department": "Psiquiatría",
+      "date": "2017-08-09",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-09",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-09",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-09",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-09",
+      "number": "50"
+    }
+  ],
+  "table5": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-10",
+      "number": "10"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-10",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-10",
+      "number": "50"
+    },
+     {
+      "department": "Psiquiatría",
+      "date": "2017-08-06",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-10",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-10",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-10",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-10",
+      "number": "50"
+    }
+  ],
+  "table6": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-11",
+      "number": "20"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-11",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-11",
+      "number": "50"
+    },
+     {
+      "department": "Psiquiatría",
+      "date": "2017-08-11",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-11",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-11",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-11",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-11",
+      "number": "50"
+    }
+  ],
+  "table7": [
+    {
+      "department": "Ginecología",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+    {
+      "department": "Pediatría",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+    {
+      "department": "Urgencias",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+     {
+      "department": "Psiquiatría",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+    {
+      "department": "Obstetricia",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+    {
+      "department": "Cirugía",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+    {
+      "department": "Medicina Interna",
+      "date": "2017-08-12",
+      "number": "50"
+    },
+    {
+      "department": "Odontología",
+      "date": "2017-08-12",
+      "number": "50"
+    }
+  ]
+}

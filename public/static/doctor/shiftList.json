@@ -1,0 +1,16 @@
+{
+    "shiftList": [
+      {"date":"2014-8-1","dates":"Noche larga: 00:00~8:00","name":"Li Qiuzi","sex":"Mujer","office":"Cirugía","number":"13437884546","attendance":"Retraso","signatory":"Yang Sen"},
+      {"date":"2012-4-5","dates":"Turno temprano: 6:00~17:00","name":"Huang Ying","sex":"Mujer","office":"Sala de enfermería","number":"13437884547","attendance":"Baja por enfermedad","signatory":"Yang Sen"},
+    {"date":"2017-6-18","dates":"Turno de día: 10:00~21:00","name":"Luo Zijun","sex":"Mujer","office":"Traumatología","number":"13437884548","attendance":"Horario laboral","signatory":"Yang Sen"},
+    {"date":"2015-8-19","dates":"Noche corta: 16:00~00:00","name":"Tang Ying","sex":"Hombre","office":"Psiquiatría","number":"13437884549","attendance":"Horas extra","signatory":"Yang Sen"},
+    {"date":"2013-3-20","dates":"Turno de día: 10:00~21:00","name":"Gao Yi","sex":"Hombre","office":"Urgencias","number":"13437884550","attendance":"Salida anticipada","signatory":"Yang Sen"},
+    {"date":"2015-8-19","dates":"Turno de día: 10:00~21:00","name":"Tang Ying","sex":"Hombre","office":"Psiquiatría","number":"13437884551","attendance":"Permiso por matrimonio","signatory":"Yang Sen"},
+    {"date":"2013-3-20","dates":"Noche larga: 00:00~8:00","name":"Gao Yi","sex":"Hombre","office":"Urgencias","number":"13437884552","attendance":"Baja por enfermedad","signatory":"Yang Sen"},
+    {"date":"2012-6-4","dates":"Turno temprano: 6:00~17:00","name":"Wang Bo","sex":"Hombre","office":"Ginecología","number":"13437884553","attendance":"Horario laboral","signatory":"Yang Sen"},
+    {"date":"2014-3-1","dates":"Noche larga: 00:00~8:00","name":"Li Tuxin","sex":"Hombre","office":"Cirugía Cardiotorácica","number":"13437884554","attendance":"Horas extra","signatory":"Yang Sen"},
+    {"date":"2012-2-21","dates":"Turno temprano: 6:00~17:00","name":"Qin Sen","sex":"Mujer","office":"Odontología","number":"13437884555","attendance":"Horario laboral","signatory":"Yang Sen"},
+    {"date":"2016-5-15","dates":"Noche larga: 00:00~8:00","name":"Wang Ying","sex":"Mujer","office":"Cirugía General","number":"13437884556","attendance":"Horas extra","signatory":"Yang Sen"}
+  ]
+      
+}

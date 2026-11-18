@@ -1,0 +1,41 @@
+{
+  "tableData": [
+    {
+      "date": "2017-1-1",
+      "number": "20171101",
+      "name": "Li Li",
+      "sex": "Mujer",
+      "region": "Consultas externas",
+      "Name": "Li Si",
+      "Phone": "8337094",
+      "relation": "Padre-hija",
+      "illHistory": "Ninguno",
+      "idCard": "440882199508132346",
+      "phone": 13414937050,
+      "age": 22,
+      "symptoms": "Lupus eritematoso sistémico, nefritis lúpica (fase activa)",
+      "disease": "Medicina Interna",
+      "position": "Shangzhiyuan, edificio B2, planta 2",
+      "address": "Aceleradora de Empresas Tecnológicas de Guangzhou, Guangdong",
+      "doctor": "Wang Juan",
+      "pharmacist": "",
+      "prescription": {
+        "drug": [
+          {"sort": "", "drugname": "Rehmannia cruda (Sheng Di)", "quantity": "20", "usage": ""},
+          {"sort": "", "drugname": "Peonía roja (Chi Shao)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Schisandra (Wu Wei Zi)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Aquiranto (Huai Niu Xi)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Sófora (Ku Shen)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Diente de león (Pu Gong Ying)", "quantity": "20", "usage": ""},
+          {"sort": "", "drugname": "Violeta china (Zi Hua Di Ding)", "quantity": "20", "usage": ""},
+          {"sort": "", "drugname": "Raíz de tricosantes (Hua Fen)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Angélica china (Dang Gui)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Forsitia (Lian Qiao)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Escutelaria (Huang Qin)", "quantity": "15", "usage": ""},
+          {"sort": "", "drugname": "Regaliz (Gan Cao)", "quantity": "10", "usage": ""}
+        ], 
+        "tips": "Remojar los ingredientes en agua 30 minutos y cocer a fuego lento 30 minutos; cocer cada dosis 2 veces y mezclar ambos decoctos. 1 dosis al día, tomar por la mañana y por la noche"
+      }
+    }
+  ]
+}

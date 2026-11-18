@@ -1,0 +1,63 @@
+services:
+  db:
+    image: mongo:7
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_DATABASE: his
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    restart: unless-stopped
+    environment:
+      MONGO_URL: mongodb://db:27017
+      MONGO_DB: his
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web:
+    image: node:20-alpine
+    working_dir: /app
+    command: sh -c "npm install --no-audit --no-fund --loglevel=error && npm run dev -- --host 0.0.0.0"
+    environment:
+      API_PROXY_TARGET: http://api:3000
+    volumes:
+      - .:/app
+      - web-node-modules:/app/node_modules
+    restart: unless-stopped
+    ports:
+      - "${WEB_PORT:-8070}:8080"
+    depends_on:
+      - api
+
+  web-prod:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    profiles:
+      - production
+    restart: unless-stopped
+    ports:
+      - "${WEB_PORT:-8070}:80"
+    depends_on:
+      - api
+
+volumes:
+  mongo-data:
+  web-node-modules:
+
+# Explicit subnet: the host's default Docker address pools are exhausted
+networks:
+  default:
+    ipam:
+      config:
+        - subnet: 10.60.10.0/24

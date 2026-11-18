@@ -1,0 +1,12 @@
+{
+	"department": [
+		{"text": "Medicina Interna", "value": "Internal"},
+   	{"text": "Cirugía", "value": "Surgery"},
+    {"text": "Ginecología y Obstetricia", "value": "Obstetrics_Gynecology"},
+    {"text": "Andrología", "value": "Andrology"},
+    {"text": "Pediatría", "value": "Paediatrics"},
+    {"text": "Otorrinolaringología y Oftalmología", "value": "Five_Sense_Organs"},
+    {"text": "Traumatología", "value": "Orthopedics"},
+    {"text": "Psiquiatría", "value": "Psychiatry"}
+  ]
+}

@@ -1,0 +1,126 @@
+{
+	"table": [
+    {
+      "name": "Bai Chunmei",
+      "sex": "Mujer",
+      "age": "38",
+      "position": "Médico jefe",
+      "department": "Oncología Médica",
+      "area": "Campus Oeste",
+      "special": "Tratamiento individualizado y combinado de tumores digestivos",
+      "message": "Bai Chunmei, médica jefe y directora de tesis doctorales, jefa de Oncología Médica del Hospital Peking Union. Es miembro del comité ejecutivo de la Sociedad China de Oncología Clínica (CSCO), miembro ejecutivo de la Sociedad de Oncología Geriátrica, miembro de los comités de quimioterapia clínica, de cáncer gástrico y de tumores neuroendocrinos de la CSCO y consejera de la Asociación Anticáncer de Pekín. Forma parte del comité editorial de la «Revista China de Nutrición Clínica» y del «Foro de Oncología», y es revisora de la «Revista China de Nuevos Fármacos». Obtuvo la licenciatura en Medicina (1989, Universidad Médica de Pekín) y el doctorado en Medicina Interna (1999, Universidad Médica Peking Union de China). En 2000 realizó una estancia en la Facultad de Medicina de la Universidad de Carolina del Norte. Investiga el diagnóstico y tratamiento de tumores, en especial el uso de marcadores moleculares en el diagnóstico, tratamiento y pronóstico. Ha participado en los programas nacionales «863» y del «XI Plan Quinquenal» y en estudios clínicos sobre tumores gastrointestinales avanzados financiados por la Fundación Nacional de Ciencias Naturales, y ha dirigido y participado en ensayos clínicos de nuevos fármacos antitumorales."
+    },
+     {
+      "name": "Fang Qi",
+      "sex": "Hombre",
+      "age": "50",
+      "position": "Médico jefe",
+      "department": "Cardiología",
+      "area": "Campus Este",
+      "special": "Especialista en enfermedades cardiovasculares",
+      "message": "Fang Qi, catedrático de Medicina Interna, nació el 15 de febrero de 1920 en Dingyuan (Anhui). Desde 1938 estudió en la Universidad Yenching, la Facultad de Medicina Peking Union, la Facultad de Medicina de la Universidad San Juan de Shanghái y la Facultad de Medicina de la Universidad West China de Chengdu; se doctoró en Medicina en 1946. Fue uno de los primeros directores de tesis doctorales del país y un reconocido especialista cardiovascular, con sólidos fundamentos teóricos, amplios conocimientos y gran experiencia. En más de cincuenta años de ejercicio hizo una contribución destacada a la sanidad del país. Desde 1950 se dedicó a la asistencia e investigación de las enfermedades cardiovasculares: primero a la electrocardiografía y, desde 1956, al cateterismo cardíaco, siendo pionero en el estudio de las cardiopatías congénitas. Investigó la estenosis mitral reumática y fue el primero en el país en trabajar en hemodinámica. También estudió la cardiopatía coronaria, las arritmias y la electrofisiología cardíaca, y tiene una amplísima experiencia en el diagnóstico y tratamiento de todo tipo de enfermedades cardiovasculares."
+    },
+    {
+      "name": "Chen Wei",
+      "sex": "Hombre",
+      "age": "37",
+      "position": "Médico jefe adjunto",
+      "department": "Nutrición Parenteral y Enteral",
+      "area": "Campus Este",
+      "special": "Enfermedades frecuentes de nutrición enteral y parenteral",
+      "message": "Chen Wei, varón, médico adjunto, responsable de interconsultas clínicas y trabajo básico. Se licenció en 1995 en Nutrición Médica por la Facultad de Medicina de la Universidad de Qingdao e ingresó ese año en el Hospital Peking Union como nutricionista. En 2004 obtuvo el máster en Medicina Interna por la Universidad Médica Peking Union y en 2007 la acreditación de médico jefe adjunto del Ministerio de Sanidad. Es miembro permanente del comité de nutricionistas de la Asociación Médica China, miembro joven y secretario general de la sección de nutrición parenteral y enteral de la Sociedad Médica China, miembro del comité de nutrición clínica de la sección de medicina integrativa de Pekín, miembro del grupo de gestión de la salud de la sección de diabetes de la Sociedad Médica China y vicepresidente de la Asociación de Prevención de la Diabetes de Pekín. Ha participado en proyectos de los planes quinquenales IX, X y XI, ha publicado más de veinte artículos y cerca de veinte libros de divulgación, y se dedica al tratamiento nutricional de enfermedades y a la educación sanitaria."
+    },
+    {
+      "name": "Li Xuewang",
+      "sex": "Hombre",
+      "age": "45",
+      "position": "Médico jefe",
+      "department": "Nefrología",
+      "area": "Campus Este",
+      "special": "Enfermedades glomerulares primarias y secundarias y técnicas de depuración sanguínea, en especial nefritis lúpica, síndrome nefrótico refractario e insuficiencia renal aguda",
+      "message": "Li Xuewang, varón, nacido en noviembre de 1946, de etnia han, natural de Anxin (Hebei). Se licenció en 1970 en la Facultad de Medicina de la Universidad Médica Peking Union de China y en 1982 obtuvo el máster en Nefrología en la misma universidad. Entre 1987 y 1989 investigó biología celular renal en el servicio de Nefrología de la Facultad de Medicina de la Universidad de Maryland (EE. UU.). De 2000 a 2003 cursó gestión hospitalaria en la Escuela Internacional de Negocios China-Europa (CEIBS), donde obtuvo el certificado correspondiente. Desde 2000 recibe la asignación especial del Consejo de Estado."
+    },
+    {
+      "name": "Li Shunwei",
+      "sex": "Hombre",
+      "age": "60",
+      "position": "Catedrático",
+      "department": "Nutrición Parenteral y Enteral",
+      "area": "Campus Este",
+      "special": "Diagnóstico y tratamiento de enfermedades cerebrovasculares, alteraciones de la conciencia, trastornos del sueño, cefaleas y mareos. Consulta especializada: trastornos psicofisiológicos",
+      "message": "Li Shunwei, varón, natural de Shanghái, nacido en 1936. Se licenció en 1958 en la Primera Facultad de Medicina de Shanghái y después trabajó en el servicio de Neurología del Hospital Peking Union, donde fue médico adjunto (1979), profesor asociado por promoción extraordinaria (1983) y catedrático (1988); director de tesis de máster desde 1989 y de doctorado desde 1992, y jefe de Neurología de 1991 a 1997. Desde 1992 recibe la asignación especial del Consejo de Estado. Ha sido miembro honorario de la Sociedad Francesa de Neurología, miembro correspondiente de la Sociedad Americana de Psiquiatría Biológica, miembro de comités de evaluación del Consejo de Estado, de la Administración Nacional de Medicamentos y del Ministerio de Sanidad, y ha ocupado cargos directivos en la sección de Neurología de la Sociedad Médica China y en su sección de Pekín. Entre 1983 y 1986 se formó casi tres años en EE. UU., centrándose en neuropsicología y neurofarmacología. Con más de cuarenta años en Neurología, destaca en el diagnóstico de casos complejos y en el uso de fármacos neurológicos. Ante el aumento de enfermedades de origen psicológico, impulsó junto con Neumología, Cardiología, Gastroenterología e Inmunología un centro de trastornos psicofisiológicos. Tiene amplia experiencia en cefaleas e insomnio, sobre los que ha escrito dos monografías, lleva más de 20 años respondiendo cartas de pacientes y divulga con frecuencia en televisión, radio y prensa sobre depresión, neurosis, insomnio, cefalea, Parkinson y enfermedad cerebrovascular. Como director de tesis ha investigado el deterioro cognitivo en el síndrome de apnea obstructiva del sueño, relacionado con la hipoxia y la alteración de la arquitectura del sueño, hallazgos publicados y citados en revistas internacionales. Valorado por sus alumnos, en 2000 recibió el título de profesor ejemplar. Ha publicado 96 artículos, dirigido 5 libros, participado en 18 y traducido 2, entre ellos «Diagnóstico diferencial y manejo de las alteraciones de la conciencia y el coma», «Muerte cerebral», «Estado vegetativo», «Cefalea» e «Insomnio». En 1990 su «Clasificación y graduación de las alteraciones de la conciencia» fue citada en la norma nacional sobre intoxicación por monóxido de carbono. Es editor jefe de la «Revista Internacional Bilingüe de Medicina Interna» y miembro del comité editorial de numerosas revistas médicas."
+    },
+    {
+      "name": "Liao Quan",
+      "sex": "Hombre",
+      "age": "40",
+      "position": "Subdirector del Departamento de Cirugía",
+      "department": "Cirugía",
+      "area": "Campus Este",
+      "special": "",
+      "message": "Liao Quan, varón, catedrático, médico jefe, director de tesis doctorales, catedrático distinguido Peking Union y subdirector del Departamento de Cirugía. Estudió Medicina en la Universidad de Ciencias Médicas West China (1985-1991) y desde 1991 trabaja en Cirugía del Hospital Peking Union. Se doctoró en la Escuela de Posgrado de la Academia China de Ciencias Médicas (1994-1998), fue investigador visitante en Cirugía del Hospital Universitario de Berna, Suiza (2000-2001), director de tesis doctorales por promoción extraordinaria en 2006 y, en 2008, médico jefe y catedrático de Cirugía General del Hospital Peking Union."
+    }
+  ],
+  "table2": [
+    {
+      "name": "Zhu Wenling",
+      "sex": "Mujer",
+      "age": "38",
+      "position": "Enfermero(a) supervisor(a)",
+      "department": "Cardiología",
+      "area": "Campus Oeste",
+      "special": "Diagnóstico y tratamiento de casos complejos y graves de Medicina Interna y Cardiología",
+      "message": "Zhu Wenling, mujer, nacida en 1940, catedrática de Medicina Interna y directora de tesis doctorales. Se licenció en 1965 en la Primera Facultad de Medicina de Shanghái y lleva más de treinta años en cardiología clínica, con gran experiencia en urgencias cardiovasculares graves. Con una sólida base en medicina interna, destaca en el diagnóstico de enfermedades cardíacas secundarias a enfermedades sistémicas o de difícil diagnóstico, como endocarditis infecciosa, pericarditis constrictiva, arteritis de Takayasu, disección aórtica, embolia pulmonar, amiloidosis cardíaca, miocardiopatía periparto y cardiopatías asociadas a hipertiroidismo, hipotiroidismo, feocromocitoma, hemocromatosis o enfermedades del tejido conectivo. Tras formarse en ecocardiografía en EE. UU. en 1985, aplicó la ecografía, el Doppler color y la ecocardiografía transesofágica para confirmar numerosos casos difíciles, como cardiopatías congénitas, valvulopatías, endocarditis, miocardiopatías, pericarditis constrictiva y disección aórtica. En el diagnóstico preoperatorio de cardiopatías congénitas, la ecografía ha sustituido por completo al cateterismo en nuestro hospital."
+    },
+     {
+      "name": "Zhou Yushu",
+      "sex": "Mujer",
+      "age": "30",
+      "position": "Enfermero(a) jefe",
+      "department": "Urgencias",
+      "area": "Campus Oeste",
+      "special": "Especialidad: urgencias hematológicas, urgencias de medicina interna y urgencias interdisciplinares frecuentes",
+      "message": "Zhou Yushu: mujer, nacida en 1939, catedrática. Fue jefa del grupo de toxicología de la sección de Urgencias de la Sociedad Médica China y jefa de Urgencias del Hospital Peking Union."
+    },
+    {
+      "name": "Han Hong",
+      "sex": "Mujer",
+      "age": "35",
+      "position": "Enfermero(a) jefe",
+      "department": "Urgencias",
+      "area": "Campus Oeste",
+      "spacial": "",
+      "message": "Han Hong: mujer, nacida en 1970, máster, enfermera jefe."
+    },
+    {
+      "name": "Zhu Lan",
+      "sex": "Mujer",
+      "age": "30",
+      "position": "Enfermero(a) jefe",
+      "department": "Ginecología y Obstetricia",
+      "area": "Campus Oeste",
+      "spacial": "Endoscopia ginecológica, malformaciones del tracto genital, prolapso de órganos pélvicos e incontinencia urinaria",
+      "message": "Mujer, nacida en 1964, doctora en Medicina por la Universidad Médica Peking Union de China; subdirectora de Ginecología y Obstetricia del Hospital Peking Union, catedrática y directora de tesis doctorales. Subdirectora y secretaria del grupo de suelo pélvico de la sección de Ginecología y Obstetricia de la Sociedad Médica China, evaluadora de la Fundación Nacional de Ciencias Naturales, seleccionada nacional del programa de talentos del nuevo siglo y beneficiaria de la asignación especial del Estado. Es editora adjunta de la «Revista de Ginecología y Obstetricia Práctica» y de la «Revista China de Ginecología y Obstetricia Práctica», y miembro del comité editorial de más de diez revistas, entre ellas la «Revista China de Ginecología y Obstetricia»."
+    },
+    {
+      "name": "Liang Xiaochun",
+      "sex": "Mujer",
+      "age": "30",
+      "position": "Enfermero(a) jefe",
+      "department": "Medicina China",
+      "area": "Campus Oeste",
+      "spacial": "Tratamiento de la diabetes y sus complicaciones crónicas, hiperlipidemia, enfermedades diversas de medicina interna y tratamiento complementario del cáncer.",
+      "message": " Liang Xiaochun, mujer, jefa de Medicina China del Hospital Peking Union, catedrática y directora de tesis doctorales. Nació en 1956 en Jiaocheng (Shanxi). Se licenció en 1978 en Medicina China por el Instituto de Medicina China de Pekín y en 1987 obtuvo el máster en Medicina por la Escuela de Posgrado de la Universidad Médica Peking Union de China. Desde entonces trabaja en el servicio de Medicina China del Hospital Peking Union."
+    },
+    {
+      "name": "Liu Tonghua",
+      "sex": "Mujer",
+      "age": "55",
+      "position": "Enfermero(a) jefe",
+      "department": "Anatomía Patológica",
+      "area": "Campus Oeste",
+      "spacial": "",
+      "message": "Liu Tonghua se licenció en 1953 en la Facultad de Medicina de la Universidad San Juan de Shanghái y desde entonces se dedica a la asistencia, docencia e investigación en Anatomía Patológica; en 1999 fue elegida académica de la Academia China de Ingeniería. Es catedrática y directora de tesis doctorales de Anatomía Patológica del Hospital Peking Union; ha sido jefa de Anatomía Patológica de la Academia China de Ciencias Médicas, de la Facultad de Medicina Peking Union y del Hospital Peking Union, editora adjunta y honoraria de la «Revista China de Patología», editora honoraria de la «Revista de Patología Diagnóstica», miembro permanente de la Sociedad China de Patología, tesorera de la sección china de la Academia Internacional de Patología y miembro del comité editorial de la «Revista Médica China» (ediciones china e inglesa) y de la «Revista Internacional de Patología Quirúrgica»."
+    }
+  ]
+}

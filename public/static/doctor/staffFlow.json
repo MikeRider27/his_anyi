@@ -1,0 +1,16 @@
+{
+	"staffFlowlist": [
+	  {"id":"20147481","leave":"2017-7-15","reason":"Ninguno","name":"Li Hong","sex":"Mujer","date":"2014-8-1","degree":"Grado","major":"Medicina clínica","profession":"Médico adjunto","office":"Cirugía"},
+	  {"id":"20124125","leave":"2014-9-3","reason":"Ninguno","name":"Huang Ying","sex":"Mujer","date":"2012-4-5","degree":"Técnico superior","major":"Enfermería","profession":"Enfermero(a)","office":"Sala de enfermería"},
+    {"id":"20174129","leave":"2015-8-15","reason":"Ninguno","name":"Luo Zijun","sex":"Mujer","date":"2017-6-18","degree":"Grado","major":"Traumatología","profession":"Jefe de servicio","office":"Traumatología"},
+    {"id":"20155122","leave":"2016-7-23","reason":"Ninguno","name":"Tang Ying","sex":"Hombre","date":"2015-8-19","degree":"Doctorado","major":"Psicología","profession":"Psicólogo(a)","office":"Psiquiatría"},
+    {"id":"20138411","leave":"2017-2-1","reason":"Ninguno","name":"Gao Rui","sex":"Hombre","date":"2013-3-20","degree":"Máster","major":"Medicina clínica","profession":"Médico adjunto","office":"Urgencias"},
+    {"id":"20155222","leave":"2016-12-24","reason":"Ninguno","name":"Liu Yingrui","sex":"Hombre","date":"2015-4-19","degree":"Doctorado","major":"Psicología","profession":"Orientador(a) psicológico(a)","office":"Psiquiatría"},
+    {"id":"20137132","leave":"2014-12-1","reason":"Ninguno","name":"Liang Yi","sex":"Hombre","date":"2013-6-20","degree":"Máster","major":"Medicina clínica","profession":"Asistente","office":"Urgencias"},
+    {"id":"20124122","leave":"2016-6-8","reason":"Ninguno","name":"Wang Bo","sex":"Hombre","date":"2012-6-4","degree":"Posgrado","major":"Medicina china","profession":"Médico adjunto","office":"Ginecología"},
+    {"id":"20148142","leave":"2017-7-5","reason":"Ninguno","name":"Li Tuxin","sex":"Hombre","date":"2014-3-1","degree":"Máster","major":"Medicina clínica","profession":"Jefe de servicio","office":"Cirugía Cardiotorácica"},
+    {"id":"20121202","leave":"2013-7-26","reason":"Ninguno","name":"Qin Sen","sex":"Mujer","date":"2012-2-21","degree":"Grado","major":"Odontología","profession":"Médico adjunto","office":"Odontología"},
+    {"id":"20161232","leave":"2017-8-3","reason":"Ninguno","name":"Wang Ying","sex":"Mujer","date":"2016-5-15","degree":"Posgrado","major":"Farmacia","profession":"Catedrático","office":"Cirugía General"}
+  ]
+      
+}

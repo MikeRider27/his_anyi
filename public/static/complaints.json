@@ -1,0 +1,39 @@
+{
+	"tableData": [{
+    "date": "2017-3-4",
+    "phone": "13415637070",
+    "name": "Xiao Ming",
+    "content": "Durante mi revisión en su hospital el médico me trató a gritos; fue muy impaciente y no respetó al paciente. Su número de empleado es 0079",
+    "department": "Cirugía",
+    "way": "Carta",
+    "Processing": "Esta queja ya está resuelta",
+    "results": "Finalmente, el hospital amonestó y formó al médico para que sirva de lección, y el médico se disculpó por su comportamiento"
+  },{
+    "date": "2017-5-6",
+    "phone": "13415637071",
+    "name": "Tiantian",
+    "content": "Al comprar medicamentos en su hospital vi que el importe de la receta no coincidía con lo que me cobraron: me cobraron de más",
+    "department": "Caja",
+    "way": "Teléfono",
+    "Processing": "Esta queja ya está resuelta",
+    "results": "Finalmente, pedimos disculpas por el error en el cobro y devolvimos al paciente el importe cobrado de más"
+  },{
+    "date": "2017-6-7",
+    "phone": "Sin número",
+    "name": "Anónimo",
+    "content": "El 7-6-2017 fui atendido en su hospital por una enfermera con muy mala actitud; me habló de forma muy poco amable y arrogante. Su número de empleada es 0008",
+    "department": "Dirección de Enfermería",
+    "way": "Carta",
+    "Processing": "Esta queja ya está resuelta",
+    "results": "Finalmente, el hospital amonestó y formó a la enfermera para que sirva de lección, y ella se disculpó por su comportamiento"
+  },{
+    "date": "2017-8-7",
+    "phone": "13415637075",
+    "name": "Li Si",
+    "content": "Traje a mi madre a su hospital y su salud empeoró cada vez más. Al revisar la receta del médico descubrí medicamentos que no correspondían a su enfermedad; denuncio al médico por diagnóstico erróneo y prescripción indebida",
+    "department": "Dirección Médica",
+    "way": "Carta",
+    "Processing": "Esta queja está en trámite",
+    "results": "Aún no hay resultado final"
+  }]
+}

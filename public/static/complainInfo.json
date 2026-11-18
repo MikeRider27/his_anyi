@@ -1,0 +1,81 @@
+{
+	"table": [
+		{
+			"complainant": "Sr. Zhang",
+			"type": "Servicio médico",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Srta. Li",
+			"type": "Calidad médica",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Sr. Chen",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Sra. Xie",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Sr. Huang",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Sr. Zhang",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Srta. Wu",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Sr. Zhou",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Srta. Wu",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Srta. Wu",
+			"type": "Entorno hospitalario",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		},
+		{
+			"complainant": "Srta. Mei",
+			"type": "Servicio médico",
+			"date": "2017-08-02",
+			"content": "Mala atención",
+			"phone": "13418745228"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "his-api",
+  "version": "1.0.0",
+  "description": "API REST del Hospital Anyi respaldada por MongoDB",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}

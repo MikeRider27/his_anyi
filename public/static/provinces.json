@@ -1,0 +1,247 @@
+{
+  "provinces": [
+    {
+      "value": "shanxi",
+      "label": "Provincia de Shanxi",
+      "citys": [{
+        "value": "taiyuan",
+        "label": "Taiyuan"
+      },{
+        "value": "datong",
+        "label": "Datong"
+      },{
+        "value": "yangquan",
+        "label": "Yangquan"
+      },{
+        "value": "changzhi",
+        "label": "Changzhi"
+      },{
+        "value": "jincheng",
+        "label": "Jincheng"
+      },{
+        "value": "suzhou",
+        "label": "Shuozhou"
+      },{
+        "value": "jinzhong",
+        "label": "Jinzhong"
+      },{
+        "value": "yuncheng",
+        "label": "Yuncheng"
+      },{
+        "value": "qizhou",
+        "label": "Xinzhou"
+      },{
+        "value": "linfen",
+        "label": "Linfen"
+      },{
+        "value": "lvliang",
+        "label": "Lüliang"
+      }]
+    },{
+      "value": "liaoning",
+      "label": "Provincia de Liaoning",
+      "citys": [
+      {
+        "value": "shenyang",
+        "label": "Shenyang"
+      },{
+        "value": "dalian",
+        "label": "Dalian"
+      },{
+        "value": "anshan",
+        "label": "Anshan"
+      },{
+        "value": "fushun",
+        "label": "Fushun"
+      },{
+        "value": "benxi",
+        "label": "Benxi"
+      },{
+        "value": "dangdong",
+        "label": "Dandong"
+      }, {
+        "value": "jinzhou",
+        "label": "Jinzhou"
+      },{
+        "value": "yingkou",
+        "label": "Yingkou"
+      },{
+        "value": "guxin",
+        "label": "Fuxin"
+      },{
+        "value": "liaoyang",
+        "label": "Liaoyang"
+      },{
+        "value": "panjin",
+        "label": "Panjin"
+      },{
+        "value": "tieling",
+        "label": "Tieling"
+      }, {
+        "value": "zhaoyang",
+        "label": "Chaoyang"
+      },{
+        "value": "huludaoshi",
+        "label": "Huludao"
+      }]
+    },{
+      "value": "jilin",
+      "label": "Provincia de Jilin",
+      "citys": [
+      {
+        "value": "changchun",
+        "label": "Changchun"
+      },{
+        "value": "jilin",
+        "label": "Jilin"
+      },{
+        "value": "siping",
+        "label": "Siping"
+      },{
+        "value": "liaoyuan",
+        "label": "Liaoyuan"
+      },{
+        "value": "tonghua",
+        "label": "Tonghua"
+      },{
+        "value": "baishan",
+        "label": "Baishan"
+      },{
+        "value": "songyuan",
+        "label": "Songyuan"
+      },{
+        "value": "baicheng",
+        "label": "Songyuan"
+      },{
+        "value": "yanbianchaoxianzizhiqu",
+        "label": "Prefectura autónoma coreana de Yanbian"
+      }]
+    },{
+      "value": "heilongjiang",
+      "label": "Provincia de Heilongjiang",
+      "citys": [
+      {
+        "value": "haerbing",
+        "label": "Harbin"
+      },{
+        "value": "qiqihaerbing",
+        "label": "Qiqihar"
+      },{
+        "value": "jixi",
+        "label": "Jixi"
+      },{
+        "value": "hegang",
+        "label": "Hegang"
+      },{
+        "value": "shuangyashan",
+        "label": "Shuangyashan"
+      },{
+        "value": "daqing",
+        "label": "Daqing"
+      },{
+        "value": "yichun",
+        "label": "Yichun"
+      },{
+        "value": "jiamusi",
+        "label": "Jiamusi"
+      },{
+        "value": "qitaihe",
+        "label": "Qitaihe"
+      },{
+        "value": "mudanjiang",
+        "label": "Mudanjiang"
+      },{
+        "value": "heiheng",
+        "label": "Heihe"
+      },{
+        "value": "suihua",
+        "label": "Suihua"
+      },{
+        "value": "daxinganling",
+        "label": "Región de Da Hinggan Ling"
+      }]
+    },{
+      "value": "jiangsu",
+      "label": "Provincia de Jiangsu",
+      "citys": [
+      {
+        "value": "nanjing",
+        "label": "Nankín"
+      },{
+        "value": "quxi",
+        "label": "Wuxi"
+      },{
+        "value": "xuzhou",
+        "label": "Xuzhou"
+      },{
+        "value": "changzhou",
+        "label": "Changzhou" 
+      },{
+        "value": "suzhou",
+        "label": "Suzhou"
+      },{
+        "value": "nantong",
+        "label": "Nantong"
+      },{
+        "value": "lainyungang",
+        "label": "Lianyungang"
+      },{
+        "value": "weian",
+        "label": "Huai'an"
+      },{
+        "value": "yancheng",
+        "label": "Yancheng"
+      },{
+        "value": "yangzhou",
+        "label": "Yangzhou"
+      },{
+        "value": "zhenjiang",
+        "label": "Zhenjiang"
+      },{
+        "value": "taizhou",
+        "label": "Taizhou (Jiangsu)" 
+      },{
+        "value": "suqian",
+        "label": "Suqian" 
+      }]
+    },{
+      "value": "zhejiang",
+      "label": "Provincia de Zhejiang",
+      "citys": [
+      {
+        "value": "hangzhou",
+        "label": "Hangzhou"  
+      },{
+        "value": "shining",
+        "label": "Ningbo"
+      },{
+        "value": "wenzhou",
+        "label": "Wenzhou"
+      },{
+        "value": "jiaxing",
+        "label": "Jiaxing"
+      },{
+        "value": "huzhou",
+        "label": "Huzhou"
+      },{
+        "value": "shaoxing",
+        "label": "Shaoxing"
+      },{
+        "value": "jinhua",
+        "label": "Jinhua"
+      },{
+        "value": "quzhou",
+        "label": "Quzhou"
+      },{
+        "value": "zhoushan",
+        "label": "Zhoushan"
+      },{
+        "value": "taizhou",
+        "label": "Taizhou (Zhejiang)"
+      },{
+        "value": "lishui",
+        "label": "Lishui"
+      }]
+    }
+  ]
+}

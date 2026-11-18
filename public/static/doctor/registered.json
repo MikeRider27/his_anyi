@@ -1,0 +1,43 @@
+{
+  "tableData": [{
+  "date": "2017-1-1",
+  "number": "201711",
+  "name": "Wang Xiao",
+  "sex": "Mujer",
+  "phone": 13414937050,
+  "age": 22,
+  "symptoms":"Dolor abdominal",
+  "disease":"Medicina Interna",
+  "position":"Shangzhiyuan, edificio B2, planta 2"
+},{
+  "date": "2017-1-1",
+  "number": "201712",
+   "name": "Wang Xiaohong",
+   "sex": "Mujer",
+   "phone": 13414937051,
+   "age": 21,
+   "symptoms":"Fractura",
+   "disease":"Traumatología",
+   "position":"Shangzhiyuan, edificio B1, planta 2"
+},{
+  "date": "2017-1-4",
+  "number": "201713",
+  "name": "Wang Xiaohu",
+  "sex": "Hombre",
+  "phone": 13414937052,
+  "age": 23,
+  "symptoms":"Infección de herida",
+  "disease":"Cirugía",
+  "position":"Shangzhiyuan, edificio C, planta 2"
+},{
+  "date": "2017-1-5",
+  "number": "201714",
+  "name": "Zeng Xuehua",
+  "sex": "Mujer",
+  "phone": 13414937053,
+  "age": 23,
+  "symptoms":"Dolor de muelas",
+  "disease":"Odontología",
+  "position":"Shangzhiyuan, edificio C, planta 3"
+}]
+}

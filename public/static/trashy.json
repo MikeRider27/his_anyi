@@ -1,0 +1,84 @@
+{
+  "trashyDrug": [
+    {
+      "id": "05",
+      "name": "Cefixima comprimidos",
+      "manufacturers": "Fábrica General Farmacéutica Baiyunshan",
+      "amount": "10",
+      "handlers":"Huang Chu",
+      "trashy":"Caducado"
+    },
+    {
+      "id": "09",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Fábrica General Farmacéutica Baiyunshan",
+      "amount": "4",
+      "handlers":"Kangweiqiang",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "10",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "50",
+      "handlers":"Huang Chu",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "11",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "2",
+      "handlers":"Huang Chu",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "12",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "50",
+      "handlers":"Kangweiqiang",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "13",
+      "name": "Cefixima comprimidos",
+      "manufacturers": "Fábrica General Farmacéutica Baiyunshan",
+      "amount": "7",
+      "handlers":"Huang Chu",
+      "trashy":"Caducado"
+    },
+    {
+      "id": "14",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Fábrica General Farmacéutica Baiyunshan",
+      "amount": "50",
+      "handlers":"Kangweiqiang",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "15",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "50",
+      "handlers":"Huang Chu",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "16",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "50",
+      "handlers":"Huang Chu",
+      "trashy":"Extraviado"
+    },
+    {
+      "id": "17",
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "50",
+      "handlers":"Kangweiqiang",
+      "trashy":"Extraviado"
+    }
+  ]
+}

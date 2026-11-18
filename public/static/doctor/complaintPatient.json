@@ -1,0 +1,21 @@
+{
+	"complaintList":{
+    "tittle": "Procedimiento de tramitación de quejas de pacientes",
+    "subheading": "Para tramitar a tiempo las quejas, proteger los derechos legítimos de los ciudadanos, impulsar la mejora del servicio, elevar su calidad y preservar la imagen del hospital, se establece este régimen de tramitación de quejas conforme a la legislación y normativa sanitaria aplicable y a la situación real del hospital.",
+    "ways": ["Teléfono de quejas del hospital (0511-88619092), correo electrónico (zjzyydb@163.com), buzones de sugerencias en zonas públicas y libros de sugerencias de cada sistema, departamento y equipo.","Se establece un servicio de guardia general del hospital que atiende visitas y quejas durante las urgencias. Teléfono de quejas (18906100399).","La Oficina del Hospital y la Oficina del Comité del Partido reciben y coordinan las quejas de forma general; los demás departamentos funcionales atienden las quejas de su ámbito."],
+    "offices":["Consultas externas: atiende y coordina las quejas de pacientes ambulatorios sobre la atención médica, la calidad asistencial, los precios y el seguro médico. Lugar: mostrador de información y despacho de la dirección de consultas externas. Teléfono (0511-88619015, 88619016)","Oficina del Hospital: quejas sobre asuntos administrativos y de gestión. Teléfono (0511-88619092)","Oficina del Comité del Partido: quejas sobre ética profesional e infracciones del personal. Teléfono (0511-88619093)","Recursos Humanos: quejas sobre disciplina laboral del personal. Teléfono (0511-88619091)","Docencia Médica: quejas sobre calidad asistencial y conflictos médicos. Teléfono (0511-88619085)","Dirección de Enfermería: quejas sobre calidad y conflictos de enfermería. Teléfono (0511-88619089)","Finanzas: quejas sobre facturación y precios médicos. Teléfono (0511-88619087)","Seguridad: quejas sobre la seguridad del hospital. Teléfono (0511-88619086)","Servicios Generales: quejas sobre logística y mantenimiento. Teléfono (0511-88619090)","Equipamiento: quejas sobre la gestión de equipos. Teléfono (0511-88619077)","Control de Infecciones: quejas sobre infecciones hospitalarias. Teléfono (0511-88619084)","Farmacia Hospitalaria: quejas sobre calidad, precio y gestión de medicamentos. Teléfono (0511-88619078)","Cada sistema y departamento atiende las quejas de su propio ámbito.","Las demás quejas las atiende el departamento funcional correspondiente."]
+    },
+  "complaintPatientList": [{
+    "date": "2017-1-1",
+    "name": "Wang Xiao"
+},{
+  "date": "2017-1-1",
+  "name": "Wang Xiaohong"
+},{
+  "date": "2017-1-4",
+  "name": "Wang Xiaohu"
+},{
+  "date": "2017-1-5",
+  "name": "Zeng Xuehua"
+}]
+}

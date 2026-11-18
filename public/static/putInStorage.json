@@ -1,0 +1,81 @@
+{
+  "drug": [
+    {
+      "name": "Cefixima comprimidos",
+      "manufacturers": "Fábrica General Farmacéutica Baiyunshan",
+      "amount": "200",
+      "handlers":"Huang Chu",
+      "temperature":"01",
+      "qualityOfficer":"Lin Anhui",
+      "warehouseman":"Liang Shang",
+      "pattern":"01",
+      "species":"Medicina occidental",
+      "productionData":"2017-6-29 10:24:48",
+      "specification":"0.65g",
+      "dosageForm":"Frasco",
+      "date2":"2017-6-29 10:24:48"
+    },
+    {
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "100",
+      "handlers":"Huang Chu",
+      "temperature":"02",
+      "qualityOfficer":"Lin Anhui",
+      "warehouseman":"Liang Shang",
+      "pattern":"01",
+      "species":"Medicina occidental",
+      "productionData":"2017-6-29 10:24:48",
+      "specification":"",
+      "dosageForm":"Comprimidos",
+      "date2":"2017-6-29 10:24:48"
+    },
+    {
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "100",
+      "handlers":"Huang Chu",
+      "temperature":"02",
+      "qualityOfficer":"Lin Anhui",
+      "warehouseman":"Liang Shang",
+      "pattern":"01",
+      "species":"Medicina occidental",
+      "productionData":"2017-6-29 10:24:48",
+      "specification":"",
+      "dosageForm":"Comprimidos",
+      "date2":"2017-6-29 10:24:48"
+    },
+    {
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "100",
+      "handlers":"Huang Chu",
+      "temperature":"02",
+      "qualityOfficer":"Lin Anhui",
+      "warehouseman":"Liang Shang",
+      "pattern":"01",
+      "species":"Medicina occidental",
+      "productionData":"2017-6-29 10:24:48",
+      "specification":"",
+      "dosageForm":"Comprimidos",
+      "date2":"2017-6-29 10:24:48"
+    },
+    {
+      "name": "Yiqi Fumai inyectable",
+      "manufacturers": "Tasly Pharmaceutical de Tianjin",
+      "amount": "100",
+      "handlers":"Huang Chu",
+      "temperature":"02",
+      "qualityOfficer":"Lin Anhui",
+      "warehouseman":"Liang Shang",
+      "pattern":"01",
+      "species":"Medicina occidental",
+      "productionData":"2017-6-29 10:24:48",
+      "specification":"",
+      "dosageForm":"Comprimidos",
+      "date2":"2017-6-29 10:24:48"
+    }
+  ]
+}
+
+

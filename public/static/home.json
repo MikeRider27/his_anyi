@@ -1,0 +1,25 @@
+{
+  "home": {
+
+    "title": "Inicio del sistema de gestión interna del Hospital Anyi",
+    "subheading": "Hospital information system",
+    "survey": "El sistema de gestión interna del Hospital Anyi es un sistema de información hospitalaria de nueva generación desarrollado cuidadosamente por un equipo de cinco personas. Se ha desarrollado con altos estándares y exigencias conforme a la normativa nacional, cumpliendo las «Especificaciones de funciones básicas de los sistemas de información hospitalaria» de la Comisión Nacional de Salud y el nuevo «Régimen de gestión financiera hospitalaria» publicado por dicha comisión y el Ministerio de Hacienda.",
+    "projectTeam": {
+      "groupLeader": "Liang Mingming",
+      "teamMembers": "Chen Qiuming, Li Yimin, Xie Yunfeng, Deng Yingying",
+      "technology": "vue.js webpack vue-cli vue-router vue-resource ESLint ElementUI stylus, trabajo en equipo en GitHub, control de versiones con Git"
+    },
+    "introduce": {
+      "nurse": ["Enfermería de obstetricia, de urgencias, de pediatría, etc.", "Añadir información: edad, sexo, fecha de ingreso (día y mes), foto, formación, especialidad, cargo, departamento", "Eliminar información: enviar un id al backend (¿ajax o form?)", "Editar información: enviar los datos al backend (¿ajax o form?); si son muchos, usar formulario", "Movimiento de personal: fecha de ingreso (mes), fecha de baja (mes), motivo de la baja", "Turnos: enfermeros de turno de cada departamento y horario; muestra los datos del enfermero", "Ver quejas", "Solo la jefa de enfermería puede añadir, eliminar y editar enfermeros, asignar turnos y añadir, eliminar o editar turnos"],
+      "doctor": ["Añadir información: edad, sexo, fecha de ingreso (día y mes), foto, formación, especialidad, cargo, departamento", "Eliminar información: enviar un id al backend (¿ajax o form?)", "Editar información: enviar los datos al backend (¿ajax o form?)", "Movimiento de personal: fecha de ingreso (mes), fecha de baja (mes), motivo de la baja", "Turnos: médicos de turno de cada departamento y horario; muestra los datos del médico", "Ver quejas del departamento", "Solo el jefe de departamento puede añadir, eliminar y editar al personal, asignar turnos y añadir, eliminar o editar turnos"],
+      "cashier": ["Registrar citas de pacientes, cobrar, importe recibido, cambio, médico asignado", "Datos del paciente: edad, sexo, DNI, dirección, datos de la cita, teléfono"],
+      "pharmacy":["El farmacéutico evalúa si la receta es adecuada y decide dispensarla o cuestionarla al médico","Tipo, cantidad, stock, fabricante, fecha de fabricación, presentación y forma farmacéutica del medicamento; sistema de almacén"],
+      "drugStorage":["Entrada de medicamentos","Salida de medicamentos","Dar de baja medicamentos no utilizables","Consultar los medicamentos del almacén","El almacén también registra proveedor, cantidad, importe, almacenamiento, temperatura (principalmente ambiente y refrigerado), albarán de entrega, responsable, control de calidad, almacenero, etc."],
+      "patient":["Añadir paciente","Editar datos del paciente","Eliminar paciente","Edad, sexo, DNI, dirección, datos de la cita, teléfono","No modificables ni eliminables: fecha de consulta, médico, departamento, tratamiento necesario, medicamentos (nombre y cantidad), receta e indicaciones, hospitalización, fecha de alta","Hospitalización: habitación (número y tipo)"],
+      "hospital":["Presentación del hospital","Número de médicos y enfermeros","Presentación del personal sanitario destacado","Estadística semanal de pacientes atendidos"],
+      "register":["Leer usuario y contraseña","Validar la contraseña","Leer el rol del usuario y adaptar la navegación lateral"],
+      "personalHomepage":["Además de los datos personales básicos (médico, enfermero o farmacéutico) y el trabajo propio, se puede solicitar permiso o la baja (con motivo) y ver quejas","Los datos personales incluyen edad, sexo, fecha de ingreso (día y mes), foto, formación, especialidad, cargo y departamento","Cambiar contraseña","Cerrar sesión"]
+    }
+  }
+
+}
