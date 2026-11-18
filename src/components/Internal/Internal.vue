@@ -182,7 +182,7 @@
   right:0
   bottom:0
   left:0
-  background-color:#fff
+  background-color:#e9eef2
   height:100%
   overflow:hidden
   .el-menu-item>a
@@ -353,6 +353,7 @@
       box-sizing: border-box
       overflow:hidden
       padding-left:68px
+      background:#e9eef2
       transition: padding-left 0.25s ease
       .app-footer
         flex:0 0 auto
@@ -405,7 +406,7 @@
             max-width:100%
 
           .el-input__inner
-            border-color:#d8e2e9
+            border-color:#b5c2cd
             border-radius:7px
 
         .el-table
@@ -439,7 +440,7 @@
 
           .el-input__inner,
           .el-textarea__inner
-            border-color:#d8e2e9
+            border-color:#b5c2cd
             border-radius:8px
             transition:border-color 0.2s ease, box-shadow 0.2s ease
 
